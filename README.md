@@ -1,1 +1,3 @@
-# Time_Series
+report1 analyses a dataset that contains the annual mean temperatures in degree Celsius for the years 1900 to 2021 for the Midlands region of England, recorded by the UK Metrological Office Hadley Climate Centre and is sourced from the website - www.metoffice.gov.uk/hadobs/hadcet. We are expected to infer the conclusions from the following actions that will be conducted on the dataset
+
+report2 analyses a dataset that contains the monthly average house prices in the East Midlands region.  We are supposed to produce a fitted time series model and then forecast some future average house prices for a local government agency. We are expected to infer the conclusions from the following actions that will be conducted on the dataset
